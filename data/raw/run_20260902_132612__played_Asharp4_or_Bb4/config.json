@@ -1,0 +1,32 @@
+{
+    "sample_rate_hz": 8000,
+    "recording_seconds": 3.0,
+    "recording_samples": 24000,
+    "number_of_trials": 30,
+    "time_between_trials_s": 2.0,
+    "minimum_analysis_seconds": 0.1,
+    "minimum_analysis_samples": 800,
+    "analysis_step_samples": 1,
+    "analysis_time_resolution_s": 0.000125,
+    "frequency_tolerance_hz": 5.0,
+    "amplitude_threshold": 5.0,
+    "snr_cutoff_linear": 30.0,
+    "fundamental_relative_threshold": 0.25,
+    "consecutive_checks_required": 1,
+    "green_led_duration_s": 2.0,
+    "target_notes_hz": {
+        "C4": 261.63,
+        "C#4 / Db4": 277.18,
+        "D4": 293.66,
+        "D#4 / Eb4": 311.13,
+        "E4": 329.63,
+        "F4": 349.23,
+        "F#4 / Gb4": 369.99,
+        "G4": 392.0,
+        "G#4 / Ab4": 415.3,
+        "A4 (Concert Pitch)": 440.0,
+        "A#4 / Bb4": 466.16,
+        "B4": 493.88
+    },
+    "analysis_order": "record_and_save_all_trials_first_then_analyze_saved_raw_data"
+}

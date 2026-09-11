@@ -1,0 +1,27 @@
+{
+    "actual_note": "D4",
+    "detected_note_counts": {
+        "D4": 30
+    },
+    "total_trials": 30,
+    "total_detections": 30,
+    "true_positive_count": 30,
+    "false_positive_count": 0,
+    "false_positive_rate": 0.0,
+    "false_positive_counts_by_note": {},
+    "no_detection_count": 0,
+    "no_detection_rate": 0.0,
+    "correct_detection_rate": 1.0,
+    "true_positive_mean_detection_time_s": 0.07898480606643742,
+    "true_positive_median_detection_time_s": 0.06440428418753072,
+    "true_positive_std_detection_time_s": 0.05921646390670837,
+    "true_positive_variance_detection_time_s2": 0.0035065895976144957,
+    "true_positive_sem_detection_time_s": 0.010811397685798222,
+    "true_positive_q1_detection_time_s": 0.06439179543767447,
+    "true_positive_q3_detection_time_s": 0.06441290668271601,
+    "true_positive_iqr_detection_time_s": 2.1111245041546822e-05,
+    "true_positive_min_detection_time_s": 0.06434242148273915,
+    "true_positive_max_detection_time_s": 0.3852146956154975,
+    "true_positive_95pct_ci_mean_low_s": 0.0577944666022729,
+    "true_positive_95pct_ci_mean_high_s": 0.10017514553060193
+}

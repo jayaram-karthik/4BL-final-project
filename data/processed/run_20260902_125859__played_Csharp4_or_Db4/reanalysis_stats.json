@@ -1,0 +1,27 @@
+{
+    "actual_note": "C#4 / Db4",
+    "detected_note_counts": {
+        "C#4 / Db4": 30
+    },
+    "total_trials": 30,
+    "total_detections": 30,
+    "true_positive_count": 30,
+    "false_positive_count": 0,
+    "false_positive_rate": 0.0,
+    "false_positive_counts_by_note": {},
+    "no_detection_count": 0,
+    "no_detection_rate": 0.0,
+    "correct_detection_rate": 1.0,
+    "true_positive_mean_detection_time_s": 0.06490590096842118,
+    "true_positive_median_detection_time_s": 0.06439766429187632,
+    "true_positive_std_detection_time_s": 0.002737384489091108,
+    "true_positive_variance_detection_time_s2": 7.4932738411165875e-06,
+    "true_positive_sem_detection_time_s": 0.000499775744413318,
+    "true_positive_q1_detection_time_s": 0.06439350298349988,
+    "true_positive_q3_detection_time_s": 0.06440455188009159,
+    "true_positive_iqr_detection_time_s": 1.1048896591703272e-05,
+    "true_positive_min_detection_time_s": 0.06437973156230631,
+    "true_positive_max_detection_time_s": 0.07939691279219308,
+    "true_positive_95pct_ci_mean_low_s": 0.06392634050937107,
+    "true_positive_95pct_ci_mean_high_s": 0.06588546142747129
+}

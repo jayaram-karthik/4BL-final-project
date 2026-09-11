@@ -1,0 +1,12 @@
+{
+    "recording_start_timestamp": "2026-09-02T13:26:22.702",
+    "recording_end_timestamp": "2026-09-02T13:26:25.704",
+    "recording_wall_time_s": 3.0025552999577485,
+    "samples_recorded": 24000,
+    "expected_sample_rate_hz": 8000,
+    "effective_received_rate_hz": 7993.1916658912905,
+    "adc_min": 117,
+    "adc_max": 3527,
+    "adc_mean": 1798.2758333333334,
+    "adc_std": 809.3616020818058
+}

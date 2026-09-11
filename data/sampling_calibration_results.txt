@@ -1,0 +1,14 @@
+
+Starting sampling calibration...
+
+========== RESULTS ==========
+Requested rate:       8000 Hz
+Requested period:     125 us
+Measured rate:        8000.003 Hz
+Mean period:          125.000 us
+Minimum period:       42 us
+Maximum period:       215 us
+Samples >10 us late:  1
+Missed periods:       0
+Maximum lateness:     92 us
+=============================
